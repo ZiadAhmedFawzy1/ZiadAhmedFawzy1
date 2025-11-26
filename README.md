@@ -1,5 +1,5 @@
 ![My Photo](https://github.com/ZiadAhmedFawzy1/ZiadAhmedFawzy1/blob/main/ziad.png?raw=true)
-![My Photo](https://github.com/ZiadAhmedFawzy1/ZiadAhmedFawzy1/blob/main/life.gif?raw=true)
+<!-- ![My Photo](https://github.com/ZiadAhmedFawzy1/ZiadAhmedFawzy1/blob/main/life.gif?raw=true) -->
 <h1>Hello, my name is <i>Ziad Fawzy</i></h1>
 ## MERN stack developer & cloud Architecture
 <h3 align="left">Connect with me:</h3>
