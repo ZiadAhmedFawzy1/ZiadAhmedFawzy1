@@ -1,7 +1,7 @@
 ![My Photo](https://github.com/ZiadAhmedFawzy1/ZiadAhmedFawzy1/blob/main/ziad.png?raw=true)
 <!-- ![My Photo](https://github.com/ZiadAhmedFawzy1/ZiadAhmedFawzy1/blob/main/life.gif?raw=true) -->
 <h1>Hello, my name is <i>Ziad Fawzy</i></h1>
-## MERN stack developer & cloud Architecture
+<h2> MERN stack developer & cloud Architecture</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ziad-fawzy-28720822a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-fawzy-28720822a" height="30" width="40" /></a>
