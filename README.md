@@ -1,5 +1,6 @@
 ![My Photo](https://github.com/ZiadAhmedFawzy1/ZiadAhmedFawzy1/blob/main/ziad.png?raw=true)
 <!-- ![My Photo](https://github.com/ZiadAhmedFawzy1/ZiadAhmedFawzy1/blob/main/life.gif?raw=true) -->
+<img alt="Coder GIF" height=250 width=650 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 <h1>Hello, my name is <i>Ziad Fawzy</i></h1>
 <h2> MERN stack developer & cloud Architecture</h2>
 <h3 align="left">Connect with me:</h3>
